@@ -1,0 +1,24 @@
+
+# Example configuration file for chatterbot.
+# Lines beginning with '#' are ignored.
+# Please note: The config writer does not write comments back!
+# Do not store important info in comments!
+
+# Log file for writing debugging info. Leave blank to disable.
+#log_file = debug.log
+
+# Network and port to connect to.
+#network = irc.freenode.net
+#port = 6667
+
+# Chatter Bot Nickname
+#nick = blarghbot
+
+# Space-separated list of channels to join.
+#channels = #foo #bar #baz
+
+# Who is the owner of the bot. The owner is omnipotent.
+#owner = john_r_hacker
+
+# Other users able to perform administrative tasks.
+#admins = joe jane peter
